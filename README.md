@@ -1,6 +1,15 @@
 # Self-Guided Evolution Strategies
 
+## Experiments
 
-**Link to black-box functions experiments:** [Black-box](https://github.com/IJCAI2020-SGES/SGES/tree/master/Black-box%20functions)
+### Black-Box Functions
 
-**Link to reinforcement learning tasks experiments:** [RL](https://github.com/IJCAI2020-SGES/SGES/tree/master/RL%20tasks)
+***Sphere, Rosenbrock, Rastrigin, and Lunacek*** 
+
+**Detailed experiment configuration, please click the relevant link [Black-box functions](https://github.com/IJCAI2020-SGES/SGES/tree/master/Black-box%20functions)
+
+### Reinforcement Learning Tasks
+
+***HalfCheetah-v2, Swimmer-v2, Ant-v2, Humanoid-v2***
+
+**Detailed experiment configuration, please click the relevant link [MuJoCo tasks](https://github.com/IJCAI2020-SGES/SGES/tree/master/RL%20tasks)
