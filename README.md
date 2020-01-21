@@ -6,10 +6,12 @@
 
 ***Sphere, Rosenbrock, Rastrigin, and Lunacek*** 
 
-**Detailed experiment configuration, please click the relevant link [Black-box functions](https://github.com/IJCAI2020-SGES/SGES/tree/master/Black-box%20functions)
+**Detailed experiment configuration, please click the relevant link [Black-box functions]**(https://github.com/IJCAI2020-SGES/SGES/tree/master/Black-box%20functions)
+
+
 
 ### Reinforcement Learning Tasks
 
-***HalfCheetah-v2, Swimmer-v2, Ant-v2, Humanoid-v2***
+***HalfCheetah-v2, Swimmer-v2, Ant-v2, and Humanoid-v2***
 
-**Detailed experiment configuration, please click the relevant link [MuJoCo tasks](https://github.com/IJCAI2020-SGES/SGES/tree/master/RL%20tasks)
+**Detailed experiment configuration, please click the relevant link [MuJoCo tasks]**(https://github.com/IJCAI2020-SGES/SGES/tree/master/RL%20tasks)
